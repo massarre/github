@@ -10,6 +10,7 @@ public class App {
         int salaireBase= 400;
         int prime= 250;
         int quota= 10;
+        // github
         System.out.println("entrer votre nombre de ventes par semaine:");
         int nbreVentes= sc.nextInt();
         if ( nbreVentes >= quota) {
